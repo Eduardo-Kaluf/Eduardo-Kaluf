@@ -7,3 +7,6 @@
 ```yaml
 ⏳ Using my time to learn everything I can about programming, math and music ⏳
 ```
+## 💻 Competitive Programming
+- 🥇 <a href="https://www.hackerrank.com/profile/eduardokaluf1">HackerRank</a>
+- 🥈 <a href="https://leetcode.com/u/Kaluf/">LeetCode</a>
